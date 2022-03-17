@@ -1,8 +1,2 @@
-2022-03-02 09:48:23,408 WARN [main] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
-2022-03-02 09:50:56,136 WARN [main] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
-2022-03-02 09:54:48,723 WARN [main] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
-2022-03-02 10:03:14,520 WARN [main] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
-2022-03-02 10:19:37,257 WARN [main] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
-2022-03-02 10:55:55,324 WARN [restartedMain] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
-2022-03-02 10:57:22,655 WARN [restartedMain] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
-2022-03-02 10:58:49,724 WARN [restartedMain] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-03-17 10:25:20,979 WARN [main] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-03-17 10:26:34,603 WARN [main] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
