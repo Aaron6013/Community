@@ -1,0 +1,17 @@
+2022-03-09 10:17:11,596 WARN [restartedMain] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-03-09 10:21:10,570 WARN [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Cannot deserialize session attribute [SPRING_SECURITY_CONTEXT] for session [B52B0F178DEC02054B441B79BAB9C5F8]
+2022-03-09 10:21:10,860 WARN [restartedMain] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-03-09 10:22:29,879 WARN [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Cannot deserialize session attribute [SPRING_SECURITY_CONTEXT] for session [B52B0F178DEC02054B441B79BAB9C5F8]
+2022-03-09 10:22:30,166 WARN [restartedMain] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-03-09 10:26:07,801 WARN [kafka-producer-network-thread | producer-1] o.a.k.c.NetworkClient [NetworkClient.java:968] [Producer clientId=producer-1] Error while fetching metadata with correlation id 8 : {delete=LEADER_NOT_AVAILABLE}
+2022-03-09 10:26:07,973 WARN [kafka-producer-network-thread | producer-1] o.a.k.c.NetworkClient [NetworkClient.java:968] [Producer clientId=producer-1] Error while fetching metadata with correlation id 9 : {delete=LEADER_NOT_AVAILABLE}
+2022-03-09 10:26:08,120 WARN [kafka-producer-network-thread | producer-1] o.a.k.c.NetworkClient [NetworkClient.java:968] [Producer clientId=producer-1] Error while fetching metadata with correlation id 10 : {delete=LEADER_NOT_AVAILABLE}
+2022-03-09 10:26:53,518 WARN [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Cannot deserialize session attribute [SPRING_SECURITY_CONTEXT] for session [B52B0F178DEC02054B441B79BAB9C5F8]
+2022-03-09 10:26:53,770 WARN [restartedMain] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-03-09 10:32:03,893 WARN [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Cannot deserialize session attribute [SPRING_SECURITY_CONTEXT] for session [B52B0F178DEC02054B441B79BAB9C5F8]
+2022-03-09 10:32:04,150 WARN [restartedMain] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-03-09 10:38:35,188 WARN [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Cannot deserialize session attribute [SPRING_SECURITY_CONTEXT] for session [B52B0F178DEC02054B441B79BAB9C5F8]
+2022-03-09 10:38:35,494 WARN [restartedMain] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-03-09 15:25:28,683 WARN [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Cannot deserialize session attribute [SPRING_SECURITY_CONTEXT] for session [B52B0F178DEC02054B441B79BAB9C5F8]
+2022-03-09 15:25:29,077 WARN [restartedMain] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-03-09 15:26:08,076 WARN [restartedMain] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
