@@ -59,7 +59,7 @@ public class RedisKeyUtil {
     }
 
     //区间UV
-    public static  String getUVKey(String startDate, String endDate){
+    public static String getUVKey(String startDate, String endDate){
         return PREFIX_UV + SPLIT + startDate + SPLIT + endDate;
     }
 

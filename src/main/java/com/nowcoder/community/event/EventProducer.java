@@ -14,7 +14,7 @@ public class EventProducer {
 
     // 处理事件
     public void fireEvent(Event event) {
-        // 将事件发布到指定的主题
+        // 将事件发布到指定的主题 JSONObject.toJSONString将实体对象转换成Json字符串
         kafkaTemplate.send(event.getTopic(), JSONObject.toJSONString(event));
     }
 

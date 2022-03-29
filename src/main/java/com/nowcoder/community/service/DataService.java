@@ -46,11 +46,11 @@ public class DataService {
         while (!calendar.getTime().after(end)){
             String uvKey = RedisKeyUtil.getUVKey(simpleDateFormat.format(calendar.getTime()));
             keyList.add(uvKey);
-            calendar.add(Calendar.DATE,1);
+            calendar.add(Calendar.DATE,1); //日期加一天
         }
         //合并数据
         String uvKey = RedisKeyUtil.getUVKey(simpleDateFormat.format(start), simpleDateFormat.format(end));
-        redisTemplate.opsForHyperLogLog().union(uvKey,keyList.toArray());
+        redisTemplate.opsForHyperLogLog().union(uvKey,keyList.toArray()); //将keyList.toArray()中的key的值合并后在存入uvKey这个新key
 
         //返回统计结果
         return redisTemplate.opsForHyperLogLog().size(uvKey);

@@ -58,7 +58,7 @@ public class FollowService implements CommunityConstant {
     // 查询关注的实体的数量
     public long findFolloweeCount(int userId, int entityType) {
         String followeeKey = RedisKeyUtil.getFolloweeKey(userId, entityType);
-        return redisTemplate.opsForZSet().zCard(followeeKey);
+        return redisTemplate.opsForZSet().zCard(followeeKey);  //zCard为获取集合的大小
     }
 
     // 查询实体的粉丝的数量

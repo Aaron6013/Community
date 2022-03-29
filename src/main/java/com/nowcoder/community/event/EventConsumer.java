@@ -76,6 +76,7 @@ public class EventConsumer implements CommunityConstant {
             return;
         }
 
+        //JSONObject.parseObject 将Json字符串转化为相应的对象
         Event event = JSONObject.parseObject(record.value().toString(), Event.class);
         if (event == null) {
             logger.error("消息格式错误!");
